@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Marinela
 
-<!--
-**ioanamarinelababa1/ioanamarinelababa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack TypeScript developer. My development process is driven by a "Quality-First" mindset, to deliver enterprise-ready solutions.
 
-Here are some ideas to get you started:
+### Expertise & Product Mindset
+I build SaaS architectures focused on scalability and long-term maintainability. I am currently working on an internal tool for automated codebase scanning, refactoring prioritization, focusing on exactly what to fix first and why.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Shipped Projects
+*   **[Passsec](https://passsec.up.railway.app/)** – Password strength analyzer focused on cybersecurity metrics.
+*   **[Culinardea](https://culinardea.app/)** – Digital cooking journal with full authentication and Docker integration.
+*   **[Task Manager](https://task-manager-zeta-sepia.vercel.app/)** – Full-stack productivity tool built with NestJS and Next.js.
+*   **[Sublix](https://www.sublix.org/)** – Privacy-first subscription calculator & tracker.
+
+More in the works.
