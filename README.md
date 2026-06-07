@@ -1,9 +1,8 @@
 # Hi, I'm Marinela
 
-Full-stack TypeScript developer. My development process is driven by a "Quality-First" mindset, to deliver enterprise-ready solutions.
+I am focused on building software that works reliably in production - from full-stack web applications to security and developer tools. I pay attention to security, clean code, documentation and shipping. 
 
-### Expertise & Product Mindset
-I build SaaS architectures focused on scalability and long-term maintainability. I am currently working on an internal tool for automated codebase scanning, refactoring prioritization, focusing on exactly what to fix first and why.
+I work mostly in TypeScript and JavaScript.   
 
 ### Shipped Projects
 *   **[Passsec](https://passsec.up.railway.app/)** – Password strength analyzer focused on cybersecurity metrics.
